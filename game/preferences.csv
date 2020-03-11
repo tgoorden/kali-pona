@@ -1,0 +1,5 @@
+type,light,terrain
+A,Half-shade,Dry
+B,Shade,Wet
+C,Sun,Normal
+D,Shade,Dry
