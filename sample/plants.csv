@@ -1,0 +1,4 @@
+type,shade,terrain,root,height,likesRoot,likesHeight
+A,sun,wet,deep,high,shallow,high
+B,half-shade,dry,shallow,low,shallow,high
+C,shade,normal,deep,low,deep,low
